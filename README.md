@@ -1,16 +1,4 @@
-## Deploying a Single Page React App On ZEIT.co
-
-We will be going over how to use ZEIT.it to deploy our applications.  ZEIT is a hosting service that provides us with a command line interface (cli) that we will use to manage our deployments.  Much like we use git to manage our repository histroy.
-
-## Globablly Install ZEIT's deployment CLI called now
-
-`npm i -g now`
-
-## Login to ZEIT
-
-`now login`  
-
-It'll ask for your email.  Then send a verification email to the address provided.  This will also create an account if you don't have one.
+## Deploying a Single Page React App On Digital Ocean
 
 ### Make sure your server is setup to run off the build process
 
